@@ -12,4 +12,10 @@ all to your desktop, it only takes a few clicks.
 Yes, that is the main intent for this application. We aim to pre-include mods in the frameworks 
 so you don't have to go doing all that hard work. Just drag and drop once you're done.
 
+# INSTALLATION
+To install Noodle, open noodle.exe then follow the onscreen instructions. You can choose to install all
+the frameworks if you like, or you can do a custom installation and choose how ever many frameworks you wish to
+install. [PLEASE NOTE THAT NOODLE IS STILL IN DEVELOPMENT. IF YOU ENCOUNTER ANY BUGS PLEASE CONTACT ME VIA DISCORD:
+hiimwithstupid]
+
 
